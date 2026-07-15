@@ -14,27 +14,7 @@
 
 Hi, I'm Harith — a final-year Information Security & Assurance student at USIM, graduating August 2026. I've been fortunate to get some real hands-on time during my internship at NetByteSec, where I got to deploy a honeypot, monitor live attacker activity, and do a fair bit of forensics work. Outside of that I enjoy CTFs, tinkering with my own lab, and I'm currently working through a purple team exercise on the side. Still lots to learn, but genuinely enjoying the process.
 
-```js
-const harith = {
-  education : "B.Sc. Computer Science (Information Security & Assurance) @ USIM",
-  internship : "NetByteSec — Cybersecurity Analyst Intern",
-  focus     : ["Digital Forensics", "Threat Intelligence", "Purple Teaming", "Incident Response"],
-  certs     : ["CompTIA Security+", "Wireless Penetration Tester", "Blue Team Junior Analyst (CENTRI)"],
-  tools     : {
-    siem      : ["Splunk", "Auditd"],
-    forensics : ["FTK Imager", "Autopsy", "Wireshark"],
-    offensive : ["Nmap", "Metasploit", "Nessus", "GoPhish"],
-    infra     : ["Proxmox", "Nginx", "Docker", "Cloudflare", "DigitalOcean"],
-    ml        : ["YOLO", "WEKA"],
-  },
-  languages  : {
-    advanced     : ["PHP", "HTML", "C", "C++"],
-    intermediate : ["Python", "Java", "Arduino"],
-  },
-  ctf        : ["LigaCTF — Top 4 (2026)", "Bahtera Siber — Top 6% (2025)", "HackNyx (2026)", "Hack@10 (2026)"],
-  status     : "immediately available",
-};
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
 
