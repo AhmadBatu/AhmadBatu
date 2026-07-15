@@ -1,83 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=MUHAMMAD%20HARITH%20MUANIS&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=CYBERSECURITY%20·%20DIGITAL%20FORENSICS%20·%20THREAT%20INTELLIGENCE%20·%20PURPLE%20TEAM&descAlignY=68&descSize=13&descColor=999999" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:111111,100:1a1a1a&height=180&section=header&text=MUHAMMAD%20HARITH%20MUANIS&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=CYBERSECURITY%20·%20DIGITAL%20FORENSICS%20·%20THREAT%20INTELLIGENCE%20·%20PURPLE%20TEAM&descAlignY=68&descSize=13&descColor=888888" />
 
 <br/>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-HARITHMUANIS-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=ffffff)](https://linkedin.com)
-[![EMAIL](https://img.shields.io/badge/EMAIL-HARITH-ffffff?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=ffffff)](mailto:muhammadharithmuanismasrur@gmail.com)
-[![MALAYSIA](https://img.shields.io/badge/NILAI%2C%20MALAYSIA-ffffff?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=ffffff)](#)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:muhammadharithmuanismasrur@gmail.com)
+[![MALAYSIA](https://img.shields.io/badge/NILAI%2C%20MALAYSIA-ffffff?style=for-the-badge&logo=googlemaps&logoColor=000000)](#)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
 
-## ABOUT
-
 Hi, I'm Harith — a final-year Information Security & Assurance student at USIM, graduating August 2026. I've been fortunate to get some real hands-on time during my internship at NetByteSec, where I got to deploy a honeypot, monitor live attacker activity, and do a fair bit of forensics work. Outside of that I enjoy CTFs, tinkering with my own lab, and I'm currently working through a purple team exercise on the side. Still lots to learn, but genuinely enjoying the process.
 
-```bash
-$ whoami
-> MUHAMMAD HARITH MUANIS | INFOSEC STUDENT @ USIM
-> LEARNING  : DIGITAL FORENSICS | THREAT INTELLIGENCE | PURPLE TEAM
-> INTERNING : NETBYTESEC | ENDS AUG 2026
-> STATUS    : IMMEDIATELY AVAILABLE
+```js
+const harith = {
+  education : "B.Sc. Computer Science (Information Security & Assurance) @ USIM",
+  internship : "NetByteSec — Cybersecurity Analyst Intern",
+  focus     : ["Digital Forensics", "Threat Intelligence", "Purple Teaming", "Incident Response"],
+  certs     : ["CompTIA Security+", "Wireless Penetration Tester", "Blue Team Junior Analyst (CENTRI)"],
+  tools     : {
+    siem      : ["Splunk", "Auditd"],
+    forensics : ["FTK Imager", "Autopsy", "Wireshark"],
+    offensive : ["Nmap", "Metasploit", "Nessus", "GoPhish"],
+    infra     : ["Proxmox", "Nginx", "Docker", "Cloudflare", "DigitalOcean"],
+    ml        : ["YOLO", "WEKA"],
+  },
+  languages  : {
+    advanced     : ["PHP", "HTML", "C", "C++"],
+    intermediate : ["Python", "Java", "Arduino"],
+  },
+  ctf        : ["LigaCTF — Top 4 (2026)", "Bahtera Siber — Top 6% (2025)", "HackNyx (2026)", "Hack@10 (2026)"],
+  status     : "immediately available",
+};
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
 
-## TOOLS & STACK
+## TOOLS
 
-Tools I've worked with — some more than others:
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/SPLUNK-ffffff?style=for-the-badge&logo=splunk&logoColor=000000" />
 <img src="https://img.shields.io/badge/WIRESHARK-ffffff?style=for-the-badge&logo=wireshark&logoColor=000000" />
 <img src="https://img.shields.io/badge/METASPLOIT-ffffff?style=for-the-badge&logo=metasploit&logoColor=000000" />
 <img src="https://img.shields.io/badge/NMAP-ffffff?style=for-the-badge&logoColor=000000" />
 <img src="https://img.shields.io/badge/NESSUS-ffffff?style=for-the-badge&logo=tenable&logoColor=000000" />
-</p>
-<p>
 <img src="https://img.shields.io/badge/PROXMOX-ffffff?style=for-the-badge&logo=proxmox&logoColor=000000" />
+<img src="https://img.shields.io/badge/DOCKER-ffffff?style=for-the-badge&logo=docker&logoColor=000000" />
 <img src="https://img.shields.io/badge/NGINX-ffffff?style=for-the-badge&logo=nginx&logoColor=000000" />
-<img src="https://img.shields.io/badge/LINUX-ffffff?style=for-the-badge&logo=linux&logoColor=000000" />
-<img src="https://img.shields.io/badge/AUDITD-ffffff?style=for-the-badge&logo=linux&logoColor=000000" />
-<img src="https://img.shields.io/badge/GOPHISH-ffffff?style=for-the-badge&logo=go&logoColor=000000" />
-</p>
-<p>
+<img src="https://img.shields.io/badge/CLOUDFLARE-ffffff?style=for-the-badge&logo=cloudflare&logoColor=000000" />
+<img src="https://img.shields.io/badge/DIGITALOCEAN-ffffff?style=for-the-badge&logo=digitalocean&logoColor=000000" />
 <img src="https://img.shields.io/badge/FTK_IMAGER-ffffff?style=for-the-badge&logoColor=000000" />
 <img src="https://img.shields.io/badge/AUTOPSY-ffffff?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/GOPHISH-ffffff?style=for-the-badge&logo=go&logoColor=000000" />
+<img src="https://img.shields.io/badge/LINUX-ffffff?style=for-the-badge&logo=linux&logoColor=000000" />
 <img src="https://img.shields.io/badge/PYTHON-ffffff?style=for-the-badge&logo=python&logoColor=000000" />
-<img src="https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=000000" />
 <img src="https://img.shields.io/badge/YOLO-ffffff?style=for-the-badge&logoColor=000000" />
 </p>
 
-**Where I practice** ⠀ `TRYHACKME` · `HACKTHEBOX` · `CTF COMPETITIONS`
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
 
-## SKILLS
+## GITHUB STATS
 
-**Blue Team / SOC**
-SIEM log ingestion & correlation · SPL querying · incident timeline reconstruction · alert tuning
+<div align="center">
 
-**Digital Forensics**
-Disk image acquisition (VMDK) · PCAP analysis · Windows persistence artefacts (Credential Manager, registry, scheduled tasks)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadBatu&theme=github_dark" width="100%" />
 
-**Red Team / Offensive**
-Vulnerability assessment · phishing simulation · web exploitation · wireless pentesting
+<br/>
 
-**Purple Team**
-Lab infrastructure setup from scratch · adversary emulation · detection validation · gap analysis
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadBatu&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmadBatu&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadBatu&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmadBatu&theme=github_dark" />
 
-**Threat Intelligence**
-Honeypot deployment · attacker tradecraft profiling · investigation playbook development
-
-**Machine Learning & AI**
-YOLO (computer vision) · WEKA (data mining)
-
-**Programming**
-Advanced: PHP, HTML, C, C++ · Intermediate: Java, Python, Arduino
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
 
@@ -123,6 +120,15 @@ A secure file transfer mechanism built around steganography combined with quantu
 
 ---
 
+### 🌐 CTFD INFRASTRUCTURE — SELF-HOSTED CTF PLATFORM
+**Side Project · 2025**
+
+Deployed and managed a live CTF platform for a national competition. Handled the full infra stack from scratch — provisioned a DigitalOcean droplet, containerised CTFd with Docker, set up Nginx as reverse proxy, bought and connected a custom domain, and routed traffic through Cloudflare for DNS and DDoS protection. Managed the containers live during the competition.
+
+<sub>**STACK:** CTFD · DOCKER · NGINX · CLOUDFLARE · DIGITALOCEAN · LINUX</sub>
+
+---
+
 ### 🚁 ANTI-DRONE DETECTION SYSTEM
 **Final Year Project · Feb 2025 – Jan 2026**
 
@@ -153,39 +159,26 @@ Brought in as Software Tester for a mosque activity management system. Ran funct
 
 ## CERTIFICATIONS
 
-| | NAME | ISSUER | DATE |
-|:-:|---|---|---|
-| ✓ | Blue Team Junior Analyst | CENTRI | July 2026 |
-| ✓ | Wireless Penetration Tester | 0Day Academy | Feb 2026 |
-| ✓ | CompTIA Security+ | CompTIA | Jan 2026 |
-| ✓ | CCoE Career in Cybersecurity (Entry) | BlackBerry | May 2025 |
-| ✓ | Introduction to Cloud Computing | — | May 2025 |
-| ✓ | Introduction to Cryptography | — | Nov 2024 |
-| ⋯ | Certified Artificial Intelligence (CAI) | — | In Progress |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AhmadBatu/AhmadBatu/main/certs/comptia-security-ce-certification.png" width="30%" />
+<img src="https://raw.githubusercontent.com/AhmadBatu/AhmadBatu/main/certs/wireless.png" width="30%" />
+<img src="https://raw.githubusercontent.com/AhmadBatu/AhmadBatu/main/certs/centri.png" width="30%" />
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-ffffff?style=for-the-badge&logo=comptia&logoColor=000000" />
+<img src="https://img.shields.io/badge/Wireless_Penetration_Tester-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+<img src="https://img.shields.io/badge/Blue_Team_Junior_Analyst-ffffff?style=for-the-badge&logo=cyberdefenders&logoColor=000000" />
+<img src="https://img.shields.io/badge/CCoE_Cybersecurity_Entry-ffffff?style=for-the-badge&logo=blackberry&logoColor=000000" />
+<img src="https://img.shields.io/badge/Intro_to_Cloud_Computing-ffffff?style=for-the-badge&logo=icloud&logoColor=000000" />
+<img src="https://img.shields.io/badge/Intro_to_Cryptography-ffffff?style=for-the-badge&logo=gnuprivacyguard&logoColor=000000" />
+<img src="https://img.shields.io/badge/CAI-In_Progress-555555?style=for-the-badge" />
+</p>
 
 **Training:** CompTIA Security+, CompTIA Pentest+, Cloud Computing (BlackBerry CCoE) · Drone Simulation & Flying (AKSADRONE)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-
-## CTFs & COMPETITIONS
-
-| EVENT | RESULT | YEAR |
-|---|---|---|
-| 🥈 ShadowNet — 5th Innovation Bank Challenge, Negeri Sembilan FOI | Silver Medal | 2025 |
-| LigaCTF — Week 6 | Top 4 | 2026 |
-| Bahtera Siber CTF 3108 | Top 6% | 2025 |
-| HackNyx | Participant | 2026 |
-| Hack@10 | Participant | 2026 |
-| ACOTECH Hackathon | Participant | 2025 |
-| CTF Wargames MY | Participant | 2024 |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-
-## EDUCATION
-
-| QUALIFICATION | INSTITUTION | RESULT |
-|---|---|---|
-| B.Sc. (Hons) Computer Science — Information Security & Assurance | USIM | CGPA 3.67 · Dean's Award ×4 |
-| Foundation in Engineering | UiTM | CGPA 3.93 · Dean's Award ×2 |
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=80&section=footer" />
